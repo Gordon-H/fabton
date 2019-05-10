@@ -1,0 +1,32 @@
+{
+  "app": "FabCar",
+  "channel": "testCh",
+  "contract": "testContract",
+  "models": [
+    {
+      "class": "com.example.car",
+      "name": "Car",
+      "keys": [
+        "carNumber"
+      ],
+      "properties": [
+        "color",
+        "make",
+        "model",
+        "owner"
+      ]
+    },
+    {
+      "class": "com.example.user",
+      "name": "User",
+      "keys": [
+        "userId"
+      ],
+      "properties": [
+        "name",
+        "age",
+        "gender"
+      ]
+    }
+  ]
+}

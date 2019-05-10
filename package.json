@@ -1,0 +1,22 @@
+{
+  "name": "fabton",
+  "version": "0.1.0",
+  "description": "A smart contract development tool for Hyperledger Fabric",
+  "engines": {
+    "node": "^8.11.2",
+    "npm": "^5.10.0"
+  },
+  "bin": {
+    "fabton": "bin/fabton.js"
+  },
+  "dependencies": {
+    "commander": "^2.20.0",
+    "download-git-repo": "^1.1.0",
+    "glob": "^7.1.4",
+    "handlebars": "^4.1.2",
+    "metalsmith": "^2.3.0"
+  },
+  "devDependencies": {
+    "rimraf": "latest"
+  }
+}
