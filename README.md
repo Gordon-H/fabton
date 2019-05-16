@@ -20,7 +20,7 @@ fabton框架希望简化fabric的应用开发流程，提供一站式的开发�
 - Docker-Compose 
 - Node 8.x or greater
 
-##编译安装
+## 编译安装
 ```
 git clone https://github.com/Gordon-H/fabton.git
 cd fabton
