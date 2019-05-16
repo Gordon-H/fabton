@@ -14,7 +14,11 @@
     "download-git-repo": "^1.1.0",
     "glob": "^7.1.4",
     "handlebars": "^4.1.2",
-    "metalsmith": "^2.3.0"
+    "inquirer": "latest",
+    "metalsmith": "^2.3.0",
+    "ora": "^3.4.0",
+    "chalk": "latest",
+    "log-symbols": "latest"
   },
   "devDependencies": {
     "rimraf": "latest"
